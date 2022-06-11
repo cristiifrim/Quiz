@@ -1,0 +1,7 @@
+1,What is the capital of Finland?,Helsinki,15
+2,Who painted the Mona Lisa?,Leonardo Da Vinci,20
+3,Pisces is a zodiac sign of ...?,water,25
+4,In which city is UBB located?,Cluj-Napoca,49
+5,Do you like Bucharest?,No!,12
+6,How great is Piatra Neamt?,The greatest of all times,200
+7,Intrebare,raspuns,50
